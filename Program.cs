@@ -11,6 +11,7 @@ namespace test_MVS_github
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub!");
+            Console.WriteLine("test commits!");
         }
     }
 }
